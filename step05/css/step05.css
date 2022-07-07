@@ -1,0 +1,6 @@
+#main_visual .main_slider {   }
+#main_visual .main_slider figure { height: 100vh; }
+
+#main_visual .main_slider .itm01 { background: url(../img/mainvisual01.jpg) no-repeat center center/cover; }
+#main_visual .main_slider .itm02 { background: url(../img/mainvisual02.jpg) no-repeat center center/cover; }
+#main_visual .main_slider .itm03 { background: url(../img/mainvisual03.jpg) no-repeat center center/cover; }
